@@ -10,8 +10,10 @@
     "author": "Nelson Quispe",
     "license": "ISC",
     "dependencies": {
+        "body-parser": "^1.19.0",
         "express": "^4.16.2",
-        "mongoose": "^4.13.18"
+        "mongoose": "^4.13.18",
+        "mongoose-unique-validator": "^2.0.3"
     },
     "devDependencies": {
         "nodemon": "^1.12.1"
